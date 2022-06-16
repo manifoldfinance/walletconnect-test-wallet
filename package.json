@@ -1,6 +1,6 @@
 {
-  "name": "walletconnect-test-wallet",
-  "version": "1.7.1",
+  "name": "manifoldfinance-test-wallet",
+  "version": "1.7.3",
   "private": true,
   "keywords": [
     "walletconnect",
@@ -20,14 +20,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/walletconnect/walletconnect-test-wallet.git"
+    "url": "git+https://github.com/manifoldfinance/walletconnect-test-wallet.git"
   },
   "bugs": {
-    "url": "https://github.com/walletconnect/walletconnect-test-wallet/issues"
+    "url": "https://github.com/manifoldfinance/walletconnect-test-wallet/issues"
   },
   "dependencies": {
-    "@walletconnect/client": "^1.7.1",
-    "@walletconnect/utils": "^1.7.1",
+    "@walletconnect/client": "^1.7.8",
+    "@walletconnect/utils": "^1.7.8",
     "axios": "^0.21.1",
     "bignumber.js": "^9.0.1",
     "blockies-ts": "^1.0.0",
@@ -43,7 +43,7 @@
   },
   "devDependencies": {
     "@types/jest": "^24.0.25",
-    "@types/node": "^13.1.6",
+    "@types/node": "^14",
     "@types/prop-types": "^15.7.3",
     "@types/react": "^16.9.51",
     "@types/react-dom": "^16.9.4",
